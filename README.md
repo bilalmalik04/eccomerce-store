@@ -1,12 +1,39 @@
-# React + Vite
+# 🛒 React Online Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A beautifully crafted and professional **e-commerce web app** built with **React**, offering seamless shopping.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📸 Screenshot  
+![Online Store Screenshot](https://raw.githubusercontent.com/bilalmalik04/movie-explorer/main/project7.png)  
+>
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔗 Live Demo
+
+👉 [Click here to view live](https://your-store-live-link.netlify.app)
+
+---
+
+## 🚀 Features
+- 🛍️ **Add-to-cart functionality with dynamic cart context**
+- 🎨 **Beautiful product cards with styled buttons and icons**
+- 📱 **Fully responsive layout for mobile & desktop**
+- 🧊 **Glassmorphism and premium UI elements**
+- 💨 **Fast, smooth browsing experience**
+- 🔄 **React Router DOM integration for seamless page transitions**
+
+---
+
+## 🛠️ Built With
+
+- **React** (with `react-router-dom`, Context API)
+- **CSS3** (custom components, glassmorphism effects)
+- **JavaScript (ES6+)**
+- **React Icons / SVGs**
+- **Responsive Design Techniques**
+
+---
+
+> Designed and developed with ❤️ by [@bilalmalik04](https://github.com/bilalmalik04)
