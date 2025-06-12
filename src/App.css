@@ -1,0 +1,122 @@
+/* Hero Section */
+#hero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5rem 2rem;
+  min-height: 80vh;
+  background: linear-gradient(135deg, #fff0f5, #ffe4ec);
+  animation: fadeIn 1s ease-in-out;
+}
+
+/* Details */
+.hero-details {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-width: 600px;
+  animation: slideUp 1s ease forwards;
+  text-align: left;
+}
+
+.hero-details h1 {
+  font-size: 3.5rem;
+  font-weight: bold;
+  color: #111;
+}
+
+.hero-details h1 span {
+  color: palevioletred;
+  background: linear-gradient(to right, palevioletred, hotpink);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  position: relative;
+}
+
+.hero-details p {
+  font-size: 1.1rem;
+  color: #444;
+  line-height: 1.6;
+}
+
+/* Buttons */
+.btns {
+  display: flex;
+  gap: 1.5rem;
+  margin-top: 2rem;
+  flex-wrap: wrap;
+}
+
+.shop-btn {
+  background-color: palevioletred;
+  color: white;
+  padding: 0.9rem 2rem;
+  font-size: 1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  box-shadow: 0 8px 20px rgba(255, 105, 180, 0.3);
+  transition: all 0.3s ease;
+}
+
+.shop-btn:hover {
+  transform: translateY(-2px);
+  background-color: hotpink;
+}
+
+.floating-btn-git {
+  color: palevioletred;
+  font-weight: 600;
+  text-decoration: none;
+  background: white;
+  border: 2px solid palevioletred;
+  padding: 0.8rem 1.5rem;
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+.floating-btn-git:hover {
+  background: palevioletred;
+  color: white;
+}
+
+/* Animations */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    background-position: top;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(40px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .hero-details h1 {
+    font-size: 2.5rem;
+  }
+
+  .btns {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .shop-btn, .floating-btn-git {
+    width: 100%;
+  }
+}
