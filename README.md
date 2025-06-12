@@ -5,14 +5,14 @@ A beautifully crafted and professional **e-commerce web app** built with **React
 ---
 
 ## 📸 Screenshot  
-![Online Store Screenshot](https://raw.githubusercontent.com/bilalmalik04/movie-explorer/main/)  
+![Online Store Screenshot](https://raw.githubusercontent.com/bilalmalik04/movie-explorer/main/project08.png)  
 >
 
 ---
 
 ## 🔗 Live Demo
 
-👉 [Click here to view live](https://your-store-live-link.netlify.app)
+👉 [Click here to view live](https://project-eccomerce-storeonline-08.netlify.app)
 
 ---
 
