@@ -5,7 +5,7 @@ A beautifully crafted and professional **e-commerce web app** built with **React
 ---
 
 ## 📸 Screenshot  
-![Online Store Screenshot](https://raw.githubusercontent.com/bilalmalik04/movie-explorer/main/project08.png)  
+![Online Store Screenshot](https://raw.githubusercontent.com/bilalmalik04/eccomerce-store/main/project08.png)  
 >
 
 ---
