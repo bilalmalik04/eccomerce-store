@@ -24,7 +24,7 @@ export default function Hero() {
             <i className="fa-solid fa-shop"></i> Shop Now
           </button>
           <a
-            href="https://github.com/bilalmalik04"
+            href="https://github.com/byllzz"
             target="_blank"
             rel="noopener noreferrer"
             aria-label="GitHub"
