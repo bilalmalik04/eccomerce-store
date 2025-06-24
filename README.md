@@ -36,4 +36,3 @@ A beautifully crafted and professional **e-commerce web app** built with **React
 
 ---
 
-> Designed and developed with ❤️ by [@bilalmalik04](https://github.com/bilalmalik04)
